@@ -1,0 +1,5 @@
+# some basic things that are writtne to repo root
+
+.clj-kondo
+.lsp
+node_modules
