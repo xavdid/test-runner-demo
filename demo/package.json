@@ -1,0 +1,20 @@
+{
+  "name": "test-runner-demo",
+  "version": "1.0.0",
+  "description": "This repo is a collection of small examples for the [universal-test-runner](https://github.com/xavdid/universal-test-runner).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node generate-demo.js",
+    "play": "yarn build && terminalizer play demo.yml",
+    "gif": "yarn build && terminalizer render --output demo.gif demo.yml"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "replace-in-file": "^7.0.1",
+    "terminalizer": "0.9.0",
+    "write-yaml-file": "5.0.0"
+  }
+}
