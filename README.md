@@ -6,7 +6,7 @@ To try it out:
 
 <p align="center">
    <a href="https://github.com/xavdid/test-runner-demo/raw/main/_demo/demo-min.gif">
-      <img src="https://github.com/xavdid/test-runner-demo/raw/main/_demo/demo-min.gif" width="800"/>
+      <img src="https://github.com/xavdid/test-runner-demo/raw/main/_demo/demo-min.gif"/>
    </a>
 </p>
 
