@@ -4,7 +4,11 @@ This repo is a collection of small examples for the [universal-test-runner](http
 
 To try it out:
 
-GIF HERE
+<p align="center">
+   <a href="https://github.com/xavdid/test-runner-demo/raw/main/_demo/demo-min.gif">
+      <img src="https://github.com/xavdid/test-runner-demo/raw/main/_demo/demo-min.gif" width="800"/>
+   </a>
+</p>
 
 1. [Install](https://github.com/xavdid/universal-test-runner#installation) the universal test runner
 2. run: `git clone git@github.com:xavdid/universal-test-runner-demo.git`
