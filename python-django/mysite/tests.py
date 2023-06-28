@@ -1,6 +1,6 @@
 import unittest
 
-from add import add
+from mysite.add import add
 
 
 class TestStringMethods(unittest.TestCase):
