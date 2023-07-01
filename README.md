@@ -3,8 +3,8 @@
 This repo is a collection of small examples for the [universal-test-runner](https://github.com/xavdid/universal-test-runner).
 
 <p align="center">
-   <a href="https://github.com/xavdid/test-runner-demo/raw/main/_demo/demo-min.gif">
-      <img src="https://github.com/xavdid/test-runner-demo/raw/main/_demo/demo-min.gif"/>
+   <a href="https://github.com/xavdid/test-runner-demo/blob/main/_demo/demo-min.gif">
+      <img src="https://raw.githubusercontent.com/xavdid/test-runner-demo/main/_demo/demo-min.gif"/>
    </a>
 </p>
 
